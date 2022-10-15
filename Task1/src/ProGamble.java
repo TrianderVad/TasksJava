@@ -1,9 +1,9 @@
 public class ProGamble {
     public static void main(String[] args) {
         // Задаем переменные
-        double prob = 0.9;
-        int prize = 1;
-        int pay = 2;
+        double prob = 0.2;
+        int prize = 50;
+        int pay = 9;
         // Вывод функций
         System.out.print(profitableGamble(prob, prize, pay));
     }

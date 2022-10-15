@@ -1,8 +1,8 @@
 public class MaxEdge {
     public static void main(String[] args) {
         // Задаем переменные
-        int a = 8;
-        int b = 10;
+        int a = 5;
+        int b = 7;
         // Вывод функции
         System.out.print(nextEdge(a, b));
     }

@@ -1,7 +1,7 @@
 public class Factorial {
     public static void main(String[] args) {
         // Задаем переменную
-        int a = 7;
+        int a = 10;
         // Выводим функцию
         System.out.print(addUpTo(a));
     }

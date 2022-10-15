@@ -1,8 +1,8 @@
 public class TriaArea {
     public static void main(String[] args)
     {
-        int a = 3; // основание
-        int h = 3; // высота
+        int a = 7; // основание
+        int h = 4; // высота
         System.out.print(triArenas(a,h)); // вывод формулы
     }
 

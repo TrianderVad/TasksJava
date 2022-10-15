@@ -1,7 +1,7 @@
 public class Cubes {
     public static void main(String[] args) {
         // Задаем массив
-        Integer[] cubes = new Integer[] {2};
+        Integer[] cubes = new Integer[] {3,4,5};
         // Вывод функции
         System.out.print(sumOfCubes(cubes));
 

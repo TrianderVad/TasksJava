@@ -1,9 +1,9 @@
 public class Calcul {
     public static void main(String[] args) {
         // Задаем переменные
-        int n = 15;
-        int a = 11;
-        int b = 11;
+        int n = 24;
+        int a = 26;
+        int b = 2;
         // Вывод функции
         System.out.print(operation(n, a, b));
     }

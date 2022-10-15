@@ -1,9 +1,9 @@
 public class Farmer {
     public static void main(String[] args)
     {
-        int chicken = 2; // курицы
-        int cow = 3; // коровы
-        int pigs = 5; // свиньи
+        int chicken = 1; // курицы
+        int cow = 2; // коровы
+        int pigs = 3; // свиньи
         System.out.print(triArenas(chicken, cow, pigs)); // вывод кол-ва ног
     }
 

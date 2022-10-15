@@ -2,8 +2,8 @@ public class Remainder {
 
     public static void main(String[] args)
     {
-        int x = -9; // первое число
-        int y = 45; // второе число
+        int x = 3; // первое число
+        int y = 4; // второе число
         System.out.print(remaind(x,y)); // вывод остатка
     }
 
