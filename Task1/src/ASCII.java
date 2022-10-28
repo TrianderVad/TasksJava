@@ -1,7 +1,7 @@
 public class ASCII {
     public static void main(String[] args) {
         // Задаем переменную
-        char asii = 'A';
+        char asii = '\';
         // Вывод функции
         System.out.print(ctoa(asii));
     }
